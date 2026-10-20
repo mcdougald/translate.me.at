@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="302" viewBox="0 0 880 302" role="img" aria-label="translate.me.at at a glance: Placeholders checked, Human review wins, Every key, every locale, Delivered to your repo">
+<rect x="0.5" y="0.5" width="879" height="301" rx="12" fill="#0a0a0a" stroke="#262626"/>
+<rect x="24" y="24" width="196" height="254" rx="10" fill="#171717" stroke="#262626"/>
+<text x="44" y="60" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#525252">01</text>
+<line x1="72" y1="56" x2="200" y2="56" stroke="#404040" stroke-width="1"/>
+<text x="44" y="98" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#fafafa" font-weight="600"><tspan x="44" dy="0">Placeholders</tspan><tspan x="44" dy="22">checked</tspan></text>
+<text x="44" y="148" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#a3a3a3"><tspan x="44" dy="0">A real ICU parser</tspan><tspan x="44" dy="21">validates every</tspan><tspan x="44" dy="21">write. A translation</tspan><tspan x="44" dy="21">that adds, drops or</tspan><tspan x="44" dy="21">renames a placeholder</tspan><tspan x="44" dy="21">is rejected.</tspan></text>
+<rect x="236" y="24" width="196" height="254" rx="10" fill="#171717" stroke="#262626"/>
+<text x="256" y="60" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#525252">02</text>
+<line x1="284" y1="56" x2="412" y2="56" stroke="#404040" stroke-width="1"/>
+<text x="256" y="98" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#fafafa" font-weight="600"><tspan x="256" dy="0">Human review</tspan><tspan x="256" dy="22">wins</tspan></text>
+<text x="256" y="148" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#a3a3a3"><tspan x="256" dy="0">Machine drafts,</tspan><tspan x="256" dy="21">memory matches and</tspan><tspan x="256" dy="21">imports can never</tspan><tspan x="256" dy="21">replace text that a</tspan><tspan x="256" dy="21">person has approved.</tspan></text>
+<rect x="448" y="24" width="196" height="254" rx="10" fill="#171717" stroke="#262626"/>
+<text x="468" y="60" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#525252">03</text>
+<line x1="496" y1="56" x2="624" y2="56" stroke="#404040" stroke-width="1"/>
+<text x="468" y="98" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#fafafa" font-weight="600"><tspan x="468" dy="0">Every key,</tspan><tspan x="468" dy="22">every locale</tspan></text>
+<text x="468" y="148" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#a3a3a3"><tspan x="468" dy="0">Each key in each</tspan><tspan x="468" dy="21">locale gets one</tspan><tspan x="468" dy="21">state: translated,</tspan><tspan x="468" dy="21">missing, empty,</tspan><tspan x="468" dy="21">identical, stale, or</tspan><tspan x="468" dy="21">identical on purpose.</tspan></text>
+<rect x="660" y="24" width="196" height="254" rx="10" fill="#171717" stroke="#262626"/>
+<text x="680" y="60" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#525252">04</text>
+<line x1="708" y1="56" x2="836" y2="56" stroke="#404040" stroke-width="1"/>
+<text x="680" y="98" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#fafafa" font-weight="600"><tspan x="680" dy="0">Delivered to</tspan><tspan x="680" dy="22">your repo</tspan></text>
+<text x="680" y="148" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#a3a3a3"><tspan x="680" dy="0">Translations arrive</tspan><tspan x="680" dy="21">as draft pull</tspan><tspan x="680" dy="21">requests, one per</tspan><tspan x="680" dy="21">locale. No SDK and no</tspan><tspan x="680" dy="21">string CDN in your</tspan><tspan x="680" dy="21">request path.</tspan></text>
+</svg>
